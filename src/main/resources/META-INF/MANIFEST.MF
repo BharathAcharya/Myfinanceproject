@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1660669905237
+Build-Jdk: 18.0.2
+Built-By: Dell
+Bundle-License: https://raw.github.com/WASdev/ci.maven.tools/master/LICE
+ NSE
+Bundle-ManifestVersion: 2
+Bundle-Name: Welfaremoney
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-SymbolicName: Pensionscheme.Welfaremoney
+Bundle-Version: 0.0.0.v1
+Created-By: Apache Maven Bundle Plugin
+Originally-Created-By: Apache Maven Bundle Plugin
+Tool: Bnd-1.50.0
